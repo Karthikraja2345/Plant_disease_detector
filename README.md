@@ -45,7 +45,7 @@ A real-time crop disease detection system built with **OpenCV** and a pre-traine
 
 ```
 .
-├── smart_leaf_detector.py    # Main OpenCV + Hugging Face script
+├── leaf_disease_detector.py    # Main OpenCV + Hugging Face script
 ├── detections/               # Saved annotated images
 └── README.md                 # Project documentation
 ```
