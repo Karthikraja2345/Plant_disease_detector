@@ -64,7 +64,3 @@ A real-time crop disease detection system built with **OpenCV** and a pre-traine
   Adjust `self.min_leaf_coverage` to change the required green coverage (default 0.20).
 - **Voice Rate**
   Modify `self.tts.setProperty('rate', 150)` for different speech speed.
-
-## 📜 License
-
-Released under the MIT License. Free to use and modify for academic or commercial projects.
